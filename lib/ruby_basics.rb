@@ -22,6 +22,6 @@ def last_evaluated_value
 
 end
 
-##def pizza_party
-#    return "cheese"
-#end
+def pizza_party(topping)
+  return "#{topping}"
+end
